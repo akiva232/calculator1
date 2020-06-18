@@ -2,11 +2,11 @@
 
 ## h2
 
-'''
+```
 code
 code
 code
-'''
+```
 
 '1 line code'
 
